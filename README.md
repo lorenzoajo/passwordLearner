@@ -1,3 +1,6 @@
 # passwordLearner
 ---
-stupid little game i need to memonically learn some password
+Stupid little game i need to memonically learn some password
+
+Visible [here](https://lorenzoajo.github.io/passwordLearner)
+
